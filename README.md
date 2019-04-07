@@ -7,5 +7,5 @@ wget https://raw.githubusercontent.com/one-mo/mo/master/python/CentOS_python3.6.
 ***
 #### 2、一键增加/删除Swap脚本（不支持OpenVZ架构！）
 ```shell
-wget https://raw.githubusercontent.com/one-mo/mo/master/Swap/swap.sh
+wget https://raw.githubusercontent.com/one-mo/mo/master/Swap/swap.sh && bash swap.sh
 ```
